@@ -1,9 +1,9 @@
 {
   "name": "scrolling-linechart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Line Chart which is created using ChartJS, where we can append new values at the runtime provided with the horizontal scroll",
   "repository": {
-      "url": "https://github.com/kishore-devaraj/scrolling-linechart"    
+    "url": "https://github.com/kishore-devaraj/scrolling-linechart"
   },
   "main": "build/index.js",
   "peerDependencies": {
