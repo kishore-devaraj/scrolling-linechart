@@ -5,6 +5,10 @@
   "repository": {
     "url": "https://github.com/kishore-devaraj/scrolling-linechart"
   },
+  "keywords": [
+    "chart.js", "nodejs", "npm","reactjs", "component"
+  ],
+  "license": "MIT",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^16.0.4"
